@@ -3,6 +3,8 @@ Dive into a nostalgic gaming experience with my latest creation – a straightfo
 
 ### This is an old personal project of mine and this is pure/native C++ with only 2 libraries used. No plan to update this project.
 
+![game](https://github.com/chaomein123/CPlus-Pacman/blob/main/1.JPG)
+
 ## Key Features:
 
 1. Classic Pac-Man Gameplay
@@ -10,5 +12,11 @@ Dive into a nostalgic gaming experience with my latest creation – a straightfo
 3. Windows BGI Graphics
 4. User-Friendly Controls
 5. Open Source Fun: This project is not just a game; it's an open invitation for fellow enthusiasts to explore, learn, and have fun. The source code is open for inspection and modification, encouraging collaboration and learning in the realm of game development.
+
+# FAQ
+1. How many level does the game have? only one(1)
+2. Does the ghosts targeting the player? nope, it goes around in random movements.
+3. Ask me anything about this proj :)
+
 
 #### Embark on a journey down memory lane with this simple yet entertaining Pac-Man game. Whether you're a seasoned gamer or new to the world of programming, this project promises a delightful blend of classic gameplay and coding creativity. Get ready to munch your way through the maze in this C++-powered Pac-Man adventure!
